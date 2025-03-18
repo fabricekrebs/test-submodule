@@ -1,0 +1,3 @@
+[submodule "demo-sockshop"]
+	path = demo-sockshop
+	url = https://github.com/fabricekrebs/demo-sockshop
